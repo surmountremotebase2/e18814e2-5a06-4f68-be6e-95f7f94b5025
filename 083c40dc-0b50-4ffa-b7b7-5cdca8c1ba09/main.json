@@ -1,1 +1,1 @@
-{"allocations": {"NVDL": 100}, "frequency": 30, "name": "", "period": "days"}
+{"allocations": {"NVDL": 50, "TSLL": 50}, "frequency": 30, "name": "", "period": "days"}
